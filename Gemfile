@@ -7,8 +7,9 @@ group :development do
   gem 'annotate', '~> 2.4.1.beta'
 end
 
+gem 'protected_attributes'
 gem 'bootstrap-sass', '2.0.0'
-gem 'bcrypt-ruby', '3.0.1'
+gem 'bcrypt-ruby', '3.1.2'
 gem 'faker', '1.0.1'
 gem 'will_paginate', '3.0.3'
 gem 'bootstrap-will_paginate', '0.0.6'
