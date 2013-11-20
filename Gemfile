@@ -20,7 +20,7 @@ group :assests do
 end
 
 gem 'jquery-rails'
-
+gem 'turbolinks'
 group :test, :development do
   gem 'rspec-rails', '2.10.0'
   gem 'guard-rspec', '0.5.5'
